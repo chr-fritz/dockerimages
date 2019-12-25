@@ -1,0 +1,11 @@
+.idea/
+out/
+*.iml
+.vscode/
+*.code-workspace
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
